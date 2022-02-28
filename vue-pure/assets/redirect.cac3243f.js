@@ -1,1 +1,0 @@
-import{u as c}from"./index.fd4dc282.js";import{d as n,u as p,f as u,e as m}from"./vue.134335a7.js";import"./element-plus.38cafc94.js";import"./vform3-plus.0cc3f7ad.js";const v=n({setup(f){const{currentRoute:r,replace:t}=c(),{params:s,query:o}=p(r),{path:e}=s,a=Array.isArray(e)?e.join("/"):e;return t({path:"/"+a,query:o}),(i,d)=>(m(),u("div"))}});export{v as default};
