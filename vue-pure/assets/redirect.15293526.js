@@ -1,0 +1,1 @@
+import{d as n,af as c,u as p,f as u,e as m}from"./vue.5e6d7e94.js";import"./element-plus.8b2bac93.js";const h=n({setup(f){const{currentRoute:t,replace:r}=c(),{params:a,query:s}=p(t),{path:e}=a,o=Array.isArray(e)?e.join("/"):e;return r({path:"/"+o,query:s}),(i,l)=>(m(),u("div"))}});export{h as default};
