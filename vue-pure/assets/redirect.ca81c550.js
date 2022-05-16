@@ -1,0 +1,1 @@
+import{u as n}from"./index.b2e6b694.js";import{d as p,H as c,z as u,o as m}from"./element-plus.5e3a2ffc.js";import"./vform3-plus.79b63deb.js";const h=p({setup(f){const{currentRoute:r,replace:t}=n(),{params:o,query:s}=c(r),{path:e}=o,a=Array.isArray(e)?e.join("/"):e;return t({path:"/"+a,query:s}),(i,l)=>(m(),u("div"))}});export{h as default};
